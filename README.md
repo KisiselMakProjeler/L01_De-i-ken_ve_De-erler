@@ -1,2 +1,2 @@
-# L01_De-i-ken_ve_De-erler
+# L01_Degisken_ve_Degerler
 Python'a Değişken ve Değerler ile giriş yapıldı 
